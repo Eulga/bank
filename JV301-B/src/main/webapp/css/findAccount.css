@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#find_container {
+	width: 100%;
+	background-color: #cacccb;
+	padding: 20px;
+}
+#find_wrap {
+	width: 40%; height: 400px;
+	padding: 30px;
+	margin: 0 auto;
+	background-color: rgb(255, 255, 255);
+}

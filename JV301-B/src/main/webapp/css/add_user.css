@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+#join_container {
+    width: 100%;
+    padding: 10px 0 10px;
+    background-color: #cacccb;
+}
+#join_container div {
+    width: 450px; height: 730px;
+    padding: 40px 80px 0;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+#join_container div input {
+    margin-bottom: 1.2em;
+    height: 30px;
+}
+#join_container div .passwd {
+    font-family: sans-serif;
+}
+#join_container div .submit {
+    width: 95%; height: 30px;
+    font-size: 20px;
+    border: none;
+}
+
+#join_container div .submit:hover {
+	background-color: #ffdf21;
+	border: none;
+}
